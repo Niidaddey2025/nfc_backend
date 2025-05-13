@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build output (if any)
+dist/
+build/
+
+# Coverage reports
+coverage/
